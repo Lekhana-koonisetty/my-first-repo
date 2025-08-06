@@ -1,0 +1,3 @@
+Name: Lekhana Priya
+Course: BCA
+Today I learned about GitHub, creation of GitHub account, creation of repositories and uploading files in repositories.
